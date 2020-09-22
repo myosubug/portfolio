@@ -1,2 +1,2 @@
 # portfolio
-repo for personal portfolio/website
+https://myosubug.github.io/portfolio/
