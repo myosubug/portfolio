@@ -12,8 +12,7 @@ body {
 input[type="button"],
 input[type="submit"],
 input[type="text"],
-input[type="email"],
-input[type="search"] {
+input[type="email"] {
     width: 40%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -253,4 +252,10 @@ form.contact-form {
     left: 0px;
     right: 0px;
     margin-bottom: 0px;
+}
+
+
+.icon {
+    width: 40px;
+    height: 40px;
 }
